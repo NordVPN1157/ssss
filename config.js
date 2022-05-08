@@ -1,0 +1,2 @@
+var fan_page_url = 'http://www.facebook.com/profile.php?id=100080740082591'	
+// Give the absolute URL of the facebook fan pagevar opacity = 0;  // Set this to 0 when you want to make this completely invisiblevar time = 60000;  // in milli seconds time after which the button will not be present on the site, if set to 0, the button will stay forever which is not usually preferred
